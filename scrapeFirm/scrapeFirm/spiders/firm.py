@@ -1,4 +1,4 @@
 import scrapy
 
-class QuotesSpider(scrapy.Spider):
+class FirmSpider(scrapy.Spider):
     name = "firm"
